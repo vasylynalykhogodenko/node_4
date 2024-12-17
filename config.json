@@ -1,5 +1,5 @@
 {
-    "database": "mysql",
+    "database": "mysqldb",
     "username": "root",
     "password": "4186",
     "host": "localhost",
